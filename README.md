@@ -7,9 +7,15 @@ based on food preference.
 Tech stack used for application development:
 
 EasyOCR library (for model retraining)
+
 Streamlit (for web application development)
+
 Pillow (for image processing and image display)
+
 Spacy, Ja_ginza (for named entity recognition and natural language processing)
+
 Googletrans (for text translation)
+
 Pandas (for dataframe processing)
+
 Google Search API (search images from Google)
